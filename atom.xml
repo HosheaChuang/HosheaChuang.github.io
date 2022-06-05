@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hoshea的呓语</title>
+  <icon>https://hosheaphil.xyz/icon.png</icon>
+  <subtitle>追问万物的本质</subtitle>
+  <link href="https://hosheaphil.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://hosheaphil.xyz/"/>
+  <updated>2022-06-05T15:20:47.643Z</updated>
+  <id>https://hosheaphil.xyz/</id>
+  
+  <author>
+    <name>Hoshea</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hosheaphil.xyz/2022/06/05/hello-world/"/>
+    <id>https://hosheaphil.xyz/2022/06/05/hello-world/</id>
+    <published>2022-06-05T15:20:47.643Z</published>
+    <updated>2022-06-05T15:20:47.643Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
