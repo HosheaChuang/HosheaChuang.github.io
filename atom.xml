@@ -6,7 +6,7 @@
   <link href="https://hosheaphil.xyz/atom.xml" rel="self"/>
   
   <link href="https://hosheaphil.xyz/"/>
-  <updated>2022-06-05T15:20:47.643Z</updated>
+  <updated>2022-06-06T05:38:41.219Z</updated>
   <id>https://hosheaphil.xyz/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>斯坦福哲学百科 SEP | 形而上学 Metaphysics</title>
+    <link href="https://hosheaphil.xyz/2022/06/06/metaphysics/"/>
+    <id>https://hosheaphil.xyz/2022/06/06/metaphysics/</id>
+    <published>2022-06-06T11:35:45.000Z</published>
+    <updated>2022-06-06T05:38:41.219Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;以下是对斯坦福哲学百科&lt;a href=&quot;https://plato.stanford.edu/entries/metaphysics/&quot;&gt;“形而上学”&lt;/a&gt;词条2014年9月版本主体内容的翻译。于2021.12.31完成初稿，期间，与厦门大学前辈的译稿进行比对，于2022.1.23完成二稿。&lt;/p&gt;
+&lt;p&gt;有先前优秀的译稿在侧，岂敢不如履薄冰？但依旧先前译稿有诸多不足，如particular在同样的语义下，一会译为“殊相”一会译为“独立个体”，且有些许因语句复杂而存在明显的理解性错误。本稿尽可能避免这些瑕疵。同时，为了更好地阅读体验与能更清晰地比对，本文采取一句英文一句中译的呈现方式。&lt;/p&gt;
+&lt;p&gt;由于时间有限，且学识不足，疏漏、不当甚至错误之处在所难免，还望不吝赐教。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+    <category term="SEP" scheme="https://hosheaphil.xyz/tags/SEP/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
